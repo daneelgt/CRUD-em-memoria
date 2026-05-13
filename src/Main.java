@@ -20,7 +20,7 @@ public class Main {
     private final static UserDAO dao = new UserDAO();
     private final static Scanner scanner = new Scanner(System.in);
 
-    static void main(String[] args) {
+   public static void main(String[] args) {
 
         while(true){
             System.out.println("Bem vindo ao cadastro de usuários, selecione a operação desejado");
